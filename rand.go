@@ -16,7 +16,7 @@ func main() {
 	fmt.Printf("...\n")
 	fmt.Printf("NOW SELECT CORRECT NUMBER FOR INPUT\n")
 	fmt.Printf("1.ROCK\n 2.PAPER\n 3.SCISSOR")
-	fmt.Scanf("%d", input)
+	fmt.Scanf("%d",&input)
 
 	output = rand.Intn(3)
 
