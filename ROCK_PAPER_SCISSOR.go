@@ -21,7 +21,7 @@ func main() {
 	output = rand.Intn(3)
 
 	if output == 1 && input == 1 {
-		fmt.Printf("You Choose=ROCK\n CPU Choose=ROCK")
+	
 		fmt.Printf("...")
 		time.Sleep(2 * time.Second)
 		fmt.Printf("...")
