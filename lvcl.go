@@ -1,4 +1,4 @@
-// lvcl.go
+// love calculator.go
 package main
 
 import (
